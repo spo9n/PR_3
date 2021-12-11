@@ -1,0 +1,1 @@
+01.12.2021 12:57:08; Temperature = 1; Pressure = 212.

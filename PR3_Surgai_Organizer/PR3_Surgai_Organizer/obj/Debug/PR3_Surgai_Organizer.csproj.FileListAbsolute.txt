@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\bin\Debug\PR3_Surgai_Organizer.exe.config
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\bin\Debug\PR3_Surgai_Organizer.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\bin\Debug\PR3_Surgai_Organizer.pdb
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.MainForm.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.Properties.Resources.resources
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR3_Surgai\PR3_Surgai_Organizer\PR3_Surgai_Organizer\obj\Debug\PR3_Surgai_Organizer.pdb
